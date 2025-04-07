@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm AK!
+# 👋 Hey there, I'm Adhitya SK!
 
 Welcome to my GitHub profile! I'm a passionate and curious tech enthusiast currently pursuing my **Bachelor of Computer Applications (BCA)** from **K. P. B. Hinduja College**, graduating in **2026**.
 
