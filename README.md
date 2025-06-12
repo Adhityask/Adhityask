@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate and curious tech enthusiast curre
 - 🎓 **Course Hiest** — A website to discover premium courses for free  
 - 📘 [**YCMOU-BCA.site**](https://ycmou-bca.site/) — Notes, PDFs, and important updates for BCA students  
 - 🏋️ [**TrackUrFit**](https://github.com/Adhityask/trackurfit) — A CLI-based gym member manager with BMI tracking  
-- 🐾 **[PawHaus](https://github.com/Adhityask/PawHaus)** — An online pet store with features like pet adoption, shopping cart, and payment integration via Razorpay
+- 🐾 **[PawHaus](https://petstorebyadhityask14.pythonanywhere.com/)** — An online pet store with features like pet adoption, shopping cart, and payment integration via Razorpay
   
 
 > I love building projects that solve real problems and help others.
