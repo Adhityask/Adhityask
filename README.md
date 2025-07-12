@@ -15,11 +15,15 @@ Welcome to my GitHub profile! I'm a passionate and curious tech enthusiast curre
 
 ## 📂 Projects I'm Proud Of
 
-- 💪 [**Muscle Map**](https://muscle-map-eight.vercel.app/) — A global platform for gym owners & fitness lovers   
+- ⌚ [**Heritage Timepieces**](https://heritagetime.pythonanywhere.com/) — A luxury watch e-commerce platform with user accounts, cart, coupon system, Razorpay integration, and order history
+-  📘 [**YCMOU-BCA.site**](https://ycmou-bca.site/) — Notes, PDFs, and important updates for BCA students
+-  🏋️ [**TrackUrFit**](https://github.com/Adhityask/trackurfit) — A CLI-based gym member manager with BMI tracking
+-  🐾 [**PawHaus**](https://petstorebyadhityask14.pythonanywhere.com/) — An online pet store with pet adoption, shopping cart, and Razorpay payments  
+- 💪 [**Muscle Map**](https://muscle-map-eight.vercel.app/) — A global platform for gym owners & fitness lovers  
 - 🎓 **Course Hiest** — A website to discover premium courses for free  
-- 📘 [**YCMOU-BCA.site**](https://ycmou-bca.site/) — Notes, PDFs, and important updates for BCA students  
-- 🏋️ [**TrackUrFit**](https://github.com/Adhityask/trackurfit) — A CLI-based gym member manager with BMI tracking  
-- 🐾 **[PawHaus](https://petstorebyadhityask14.pythonanywhere.com/)** — An online pet store with features like pet adoption, shopping cart, and payment integration via Razorpay
+
+
+
   
 
 > I love building projects that solve real problems and help others.
